@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WireMockDemo2.iml" filepath="$PROJECT_DIR$/WireMockDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WireMockDemo.iml" filepath="$PROJECT_DIR$/WireMockDemo.iml" />
     </modules>
   </component>
 </project>
