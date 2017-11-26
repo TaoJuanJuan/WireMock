@@ -1,0 +1,14 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/demo1"
+  },
+  "response": {
+    "status": 200,
+    "statusMessage": "Everything was just fine!",
+    "body": "Stub For demo1(JSON)",
+    "headers": {
+      "Content-Type": "text/plain"
+    }
+  }
+}

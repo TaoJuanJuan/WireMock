@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/api/demo2"
+  },
+  "response": {
+    "status": 200,
+    "body": "Stub For demo2(JSON)"
+  }
+}
